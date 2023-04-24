@@ -1,9 +1,11 @@
-<div style="text-align: center;">
-  <a href="https://streak-stats.demolab.com?user=Mozza-py&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=Mozza-py&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" style="position: absolute; top: 0; left: 50%; transform: translateX(-50%);" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Mozza-py?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mozza-py&count_private=true&show_icons=true&theme=transparent&include_all_commits=True&hide=stars,contribs" />
-  </a>
-</div>
+<p align="center"> <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer"> <img src="https://streak-stats.demolab.com?user=Mozza-py&theme=discord-old-blurple&hide_border=true&date_format=j%2Fn%5B%2FY%5D"> </a> </p>
+
+<h3 align="center">Languages:</h3>
+<p align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="center">Databases:</h3>
+<p align="center"> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+
+<h3 align="center">Frameworks:</h3>
+<p align="center"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozza-py&label=Profile%20views&color=0e75b6&style=flat" alt="mozza-py" /> </p>
