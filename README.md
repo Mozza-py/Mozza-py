@@ -8,4 +8,4 @@
 
 <h3 align="center">Frameworks:</h3>
 <p align="center"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mozza-py&label=Profile%20views&color=0e75b6&style=flat" alt="mozza-py" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mozza-py&label=Profile%20views&color=0e75b6&style=flat" alt="mozza-py" /> </p>
